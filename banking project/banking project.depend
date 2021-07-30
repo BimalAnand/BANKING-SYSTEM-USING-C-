@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627642693 source:e:\codeblock\banking project\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<map>
+
